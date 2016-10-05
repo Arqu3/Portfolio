@@ -1,7 +1,8 @@
 This folder contains a 3D hack-and-slash game inspired by Diablo3 and Path of Exile made with unity, it
 showcases click to move mechanics, enemy spawning & basic combat.
 
-The .rar archive contains a runnable .exe file and the project folder contains the source project.
+The .rar archive contains a runnable .exe file and the source project can be found here:
+https://github.com/Arqu3/Project--Hack-n-slash
 
 Instructions:
 Click to move

@@ -1,5 +1,5 @@
 This folder contains a 2D point and click adventure game made with C++ SFML during the "Spelprojekt 1" course
-on the university of Skövde. This game is a collaboration of 15 students where 4 of them were programmers:
+at the university of Skövde. This game is a collaboration of 15 students where 4 of them were programmers:
 
 Ludwig Gustavsson - https://github.com/Arqu3
 Marcus Lundgren - https://github.com/Dingofighter
